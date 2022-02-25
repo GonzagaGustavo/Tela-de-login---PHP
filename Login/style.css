@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    margin: 10px;
+}
+#not-login {
+    background-color: red;
+    width: 170px;
+    border-radius: 10px;
+}
+h3 {
+    margin: 5px;
+}
+#tudo {
+    border: black solid 3px;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+body {
+    min-height: 100vh;  
+    display: grid;
+    place-items: center;
+}
+input {
+    margin: 5px;
+}
+#buttonn {
+    background-color: black;
+    color: white;
+    border: black;
+    width: 70px;
+    height: 30px;
+}
